@@ -18,14 +18,13 @@
 
 Play [Loot Survivor](https://goerli-survivor.realms.world/)
 
-Table of contents
+## Table of contents
 
 - [Game Design](#🕹️-game-design)
 - [Technology](#⛓️-technology)
 - [Infrastructure](#🖥️-infrastructure)
 - [Contributing](#🏗️-contributing)
 
----
 
 ## 🕹️ Game Design
 
@@ -113,13 +112,11 @@ The items are based off the OG loot contract
 
 </details>
 
----
 
 ## 🏗️ Contributing
 
 The game is a work in progress and contributions are greatly appreciated.
 
----
 
 ## ⛓️ Technology
 
@@ -132,7 +129,6 @@ Loot Survivor is an onchain game, designed to be immutable and permanently hoste
 - Graphql: Strawberry, AIOHTTP
 - Contracts: Cairo 1.0
 
----
 
 ## 🖥️ Infrastructure
 
@@ -144,7 +140,6 @@ Loot Survivor is an onchain game, designed to be immutable and permanently hoste
 - Mongo DB: Northflank loot-survivor-mongo-goerli
 - Graph QL: Northflank loot-survivor-graphql
 
----
 
 ### Deploying
 
