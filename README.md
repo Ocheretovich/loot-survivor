@@ -1,7 +1,7 @@
-<a href="https://twitter.com/lootrealms">
+<a href="https://x.com/lootrealms">
 <img src="https://img.shields.io/twitter/follow/lootrealms?style=social"/>
 </a>
-<a href="https://twitter.com/BibliothecaDAO">
+<a href="https://x.com/BibliothecaDAO">
 <img src="https://img.shields.io/twitter/follow/BibliothecaDAO?style=social"/>
 </a>
 
