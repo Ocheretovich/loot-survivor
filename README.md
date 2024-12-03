@@ -18,16 +18,16 @@
 
 Play [Loot Survivor](https://goerli-survivor.realms.world/)
 
-Table of contents
+## Table of contents
 
-- [Game Design](#🕹️-game-design)
-- [Technology](#⛓️-technology)
-- [Infrastructure](#🖥️-infrastructure)
-- [Contributing](#🏗️-contributing)
+- [Game Design](#game-design)
+- [Contributing](#contributing)
+- [Technology](#technology)
+- [Infrastructure](#infrastructure)
 
 ---
 
-## 🕹️ Game Design
+## Game Design
 
 Loot Survivor is an onchain Arcade machine game. You add some tokens, try to get the highscore and live for eternity onchain.
 
@@ -115,13 +115,13 @@ The items are based off the OG loot contract
 
 ---
 
-## 🏗️ Contributing
+## Contributing
 
 The game is a work in progress and contributions are greatly appreciated.
 
 ---
 
-## ⛓️ Technology
+## Technology
 
 
 Loot Survivor is an onchain game, designed to be immutable and permanently hosted on Starknet. We use advanced gas optimization to reduce costs on Starknet. A player's gamestate exists primarily in a single felt252, every action the player takes only updates a single storage slot.
@@ -134,7 +134,7 @@ Loot Survivor is an onchain game, designed to be immutable and permanently hoste
 
 ---
 
-## 🖥️ Infrastructure
+## Infrastructure
 
 ### Servers
 
